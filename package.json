@@ -1,0 +1,16 @@
+{
+  "name": "slackbot-hellotest",
+  "version": "1.0.0",
+  "description": "hellow world slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "K.odeveloper10@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.6.16",
+    "dotenv": "^6.0.0"
+  }
+}
